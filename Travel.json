@@ -1,0 +1,32 @@
+[
+  {
+    "question": "My flight is delayed. What should I do?",
+    "category": "flight_delays",
+    "answer": "Here's what you can do about flight delays:\n\n* Check with the airline for updates.\n* Contact your hotel to see if you need to adjust your reservation.\n* Consider using the airport's Wi-Fi to check for alternative flights."
+  },
+  {
+    "question": "I lost my passport. What can I do?",
+    "category": "passport_issues",
+    "answer": "Here's what you can do about lost passports:\n\n* Report the loss to the local police.\n* Contact your embassy or consulate for assistance.\n* Apply for a replacement passport."
+  },
+  {
+    "question": "My hotel booking is messed up. What can I do?",
+    "category": "hotel_issues",
+    "answer": "Here's what you can do about hotel bookings:\n\n* Contact the hotel directly to resolve the issue.\n* Review your booking confirmation and contact the booking website or platform if needed.\n* Consider looking for alternative accommodations if the issue cannot be resolved."
+  },
+  {
+    "question": "My luggage is lost! What should I do?",
+    "category": "lost_luggage",
+    "answer": "Here's what you can do about lost luggage:\n\n* Report the lost luggage to the airline immediately.\n* Provide them with a detailed description of your luggage.\n* Keep your baggage claim tags as proof of ownership."
+  },
+  {
+    "question": "How can I get around in a new city?",
+    "category": "transportation",
+    "answer": "Here's how you can get around a new city:\n\n* Use public transportation like buses, trains, or subways.\n* Consider ride-sharing services like Uber or Lyft.\n* Rent a car or scooter if you prefer to drive yourself."
+  },
+  {
+    "question": "What do I do if I see a bear?",
+    "category": "bear",
+    "answer": "Here is what you can do if you see a bear\n\n* Try to appear non-threatening.\n* Talk in a calm voice.\n* When the bear stops advancing, start slowly moving away.\n* If it keeps coming closer, stand your ground, keep talking, and use your bear spray.\n* If the bear makes contact, fall on the ground and play dead. Lie still and wait for the bear to leave."
+  }
+]
